@@ -4,6 +4,6 @@
 
 ## Learning path
 
-* [drop all](docs/examples/01-drop-all/README.md)
-* dump\_eth\_headers
+* [0x01: Familar with XDP](docs/examples/01-xdp-drop-icmp/README.md)
+* [0x02: Perf Events](docs/examples/02-perf-events/README.md)
 
